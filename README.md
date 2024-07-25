@@ -1,12 +1,4 @@
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<h1 style="color:blue;text-align:center;">TwitterClone</h1>
-<p style="color:red;">
-
-
+#Twitter Clone
 
 
 
@@ -18,7 +10,13 @@ The report provides a comprehensive exploration of the project's methodology, de
 This endeavor goes beyond replication, envisioning a platform that not only meets current demands but anticipates future trends. The Twitter clone serves as a testament to the amalgamation of modern web development practices and the innovative spirit, offering users a space that is not only engaging but also adaptive to their evolving preferences. Through this report, we invite readers to delve into the intricacies of development, gaining insights into the strategic decisions, challenges overcome, and the envisioned trajectory for this pioneering social media project.
 
 
-</p>
+#FEATURES
 
-</body>
-</html>
+1. Login and Signup Page
+
+   ![image](https://github.com/user-attachments/assets/b5629081-82bb-4fac-bd99-bf71576e445c)
+
+   ![image](https://github.com/user-attachments/assets/e6acfc57-4eb2-4d6b-a4cc-d023ee64492b)
+
+
+3. 
