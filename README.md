@@ -19,4 +19,32 @@ This endeavor goes beyond replication, envisioning a platform that not only meet
    ![image](https://github.com/user-attachments/assets/e6acfc57-4eb2-4d6b-a4cc-d023ee64492b)
 
 
-3. 
+2. Inbox Chat
+
+   ![image](https://github.com/user-attachments/assets/12a59973-7381-4225-b7e5-6c4355d7604f)
+
+3. Notifications
+
+   ![image](https://github.com/user-attachments/assets/d8b1dd33-8337-4d31-b01f-71d42197385b)
+
+4. Can send messages and see the chat feed
+
+   ![image](https://github.com/user-attachments/assets/857dab45-59e2-4a8d-a28c-c0a68e9c7994)
+
+- ![image](https://github.com/user-attachments/assets/620afba8-d28f-4005-bf95-21b1d949372d)
+
+5. Reteweet Option
+
+   ![image](https://github.com/user-attachments/assets/757fbe20-1dee-4393-801b-db534dc64b08)
+
+6. User Profile
+
+   ![image](https://github.com/user-attachments/assets/38a42bcc-97f6-4bcd-b008-8ada055d922b)
+
+7. Adding post
+
+   ![image](https://github.com/user-attachments/assets/5b67b7ab-6f74-48d3-bcd3-5d2b3305ead6)
+
+
+
+
